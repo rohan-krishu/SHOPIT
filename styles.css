@@ -461,6 +461,10 @@ header {
   font-size: 0.8rem;
 }
 
+.footer__bar a {
+  color: var(--text-light);
+}
+
 .footer__form .btn {
   background-color: var(--text-dark);
   color: var(--white);
